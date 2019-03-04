@@ -1,2 +1,2 @@
-# Study git
+# Git Study
 git 공부용
